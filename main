@@ -1,0 +1,5 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("How many times Ignas has died in VALORANT: computer.error - cannot comprehend number (error code 44)");
+  }
+}
